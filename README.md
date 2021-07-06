@@ -18,7 +18,7 @@ Student of the eighth period of Information Systems, passionate about technology
 </a>
 </p>
 
- <img alt="Night Coding" src="https://raw.githubusercontent.com/gvaitkevicius/gvaitkevicius/master/assets/Night-Coding.gif" align="right"/>
+ <img alt="Night Coding" src="https://raw.githubusercontent.com/gvaitkevicius/gvaitkevicius/master/assets/Night-Coding.gif" align="center"/>
   
 ### 🤝🏻 &nbsp;Connect with Me
 
