@@ -6,7 +6,6 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Information Systems at the Universidade do Oeste Paulista.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 ✉️ &nbsp;You can shoot me an email at giovani.vait@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my linkedin(https://www.linkedin.com/in/giovani-vaitkevicius) for more details about me. I'm open to feedback and suggestions!
 
