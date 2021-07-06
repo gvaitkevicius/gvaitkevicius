@@ -1,5 +1,5 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Giovani -->
-
+<div>
 <p>
 Student of the eighth period of Information Systems, passionate about technology, engines and sciences, I have been working with full stack, and studying new frameworks such as Vue.Js and React.Js
 </p>
@@ -7,7 +7,7 @@ Student of the eighth period of Information Systems, passionate about technology
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/gvaitkevicius/gvaitkevicius/master/assets/Night-Coding.gif" align="right"/>
 
-
+</div>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
