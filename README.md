@@ -14,7 +14,7 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/gvaitkevicius/gvaitkevicius/master/assets/Night-Coding.gif" align="center"/>
 
 
-
+<br/><br/>
 
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -26,7 +26,8 @@
 </a>
 </p>
 
-  
+ <br/><br/> 
+ 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
