@@ -1,5 +1,9 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Giovani -->
 
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Giovani/h2>
+
+### 👨🏻‍💻 &nbsp;About Me
+
 <p>
 Student of the eighth period of Information Systems, passionate about technology, engines and sciences, I have been working with full stack, and studying new frameworks such as Vue.Js and React.Js
 </p>
