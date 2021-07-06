@@ -4,10 +4,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-<p>
-Student of the eighth period of Information Systems, passionate about technology, engines and sciences, I have been working with full stack, and studying new frameworks such as Vue.Js and React.Js
-</p>
-<p>Available for work, projects, ideas: lamp: </p>
+💡 &nbsp;I like to explore new technologies and develop software solutions.\
+🎓 &nbsp;I'm currently studying Information Systems at the Universidade do Oeste Paulista.\
+✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+✉️ &nbsp;You can shoot me an email at giovani.vait@gmail.com! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my linkedin(https://www.linkedin.com/in/giovani-vaitkevicius) for more details about me. I'm open to feedback and suggestions!
 <img alt="Night Coding" src="https://raw.githubusercontent.com/gvaitkevicius/gvaitkevicius/master/assets/Night-Coding.gif" align="center"/>
 
 
