@@ -4,11 +4,16 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre Mim
 
-💡 &nbsp;Gosto de explorar novas tecnologias.
-🎓 &nbsp;Sou formado em Sistemas de Informação pela Universidade do Oeste Paulista.
-👨‍💻 &nbsp;Atualmente, sou analista desenvolvedor de sistemas há mais de 3 anos.
-✉️ &nbsp;Você pode me enviar um email para giovani.vait@gmail.com! Tentarei responder o mais rápido possível.
-📄 &nbsp;Dê uma olhada no meu LinkedIn (https://www.linkedin.com/in/giovani-vaitkevicius) para mais detalhes sobre mim. Estou aberto a feedbacks e sugestões!s!
+💡&nbsp; Gosto de explorar novas tecnologias.
+
+🎓&nbsp; Sou formado em Sistemas de Informação pela Universidade do Oeste Paulista.
+
+👨‍💻&nbsp; Atualmente, sou analista desenvolvedor de sistemas há mais de 3 anos.
+
+✉️&nbsp; Você pode me enviar um email para giovani.vait@gmail.com! Tentarei responder o mais rápido possível.
+
+📄&nbsp; Dê uma olhada no meu [LinkedIn](https://www.linkedin.com/in/giovani-vaitkevicius) para mais detalhes sobre mim. Estou aberto a feedbacks e sugestões!
+
 
 <br/><br/>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/gvaitkevicius/gvaitkevicius/master/assets/Night-Coding.gif" align="center"/>
