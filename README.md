@@ -1,6 +1,6 @@
 <!-- ## 👋 &nbsp;Giovani Vaitkevicius -->
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Giovani</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Giovani Vaitkevicius</h2>
 
 ### 👨🏻‍💻 &nbsp;Sobre Mim
 
@@ -29,7 +29,7 @@
 
  <br/><br/> 
  
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Contato
 
 <p align="center">
 <a href="https://www.linkedin.com/in/giovani-vaitkevicius"><img src="https://img.shields.io/badge/-Giovani%20Vaitkevicius-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
