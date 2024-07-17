@@ -4,11 +4,11 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre Mim
 
-💡&nbsp; Gosto de explorar novas tecnologias.
-🎓&nbsp; Sou formado em Sistemas de Informação pela Universidade do Oeste Paulista.
-👨‍💻&nbsp; Atualmente, sou analista desenvolvedor de sistemas há mais de 3 anos.
-✉️&nbsp; Você pode me enviar um email para giovani.vait@gmail.com! Tentarei responder o mais rápido possível.
-📄&nbsp; Dê uma olhada no meu [LinkedIn](https://www.linkedin.com/in/giovani-vaitkevicius) para mais detalhes sobre mim. Estou aberto a feedbacks e sugestões!
+💡&nbsp; Gosto de explorar novas tecnologias.<br/> 
+🎓&nbsp; Sou formado em Sistemas de Informação pela Universidade do Oeste Paulista.<br/> 
+👨‍💻&nbsp; Atualmente, sou analista desenvolvedor de sistemas há mais de 3 anos.<br/> 
+✉️&nbsp; Você pode me enviar um email para giovani.vait@gmail.com! Tentarei responder o mais rápido possível.<br/> 
+📄&nbsp; Dê uma olhada no meu [LinkedIn](https://www.linkedin.com/in/giovani-vaitkevicius) para mais detalhes sobre mim. Estou aberto a feedbacks e sugestões!<br/> 
 
 
 <br/><br/>
