@@ -4,10 +4,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently studying Information Systems at the Universidade do Oeste Paulista.\
-✉️ &nbsp;You can shoot me an email at giovani.vait@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my linkedin(https://www.linkedin.com/in/giovani-vaitkevicius) for more details about me. I'm open to feedback and suggestions!
+💡  &nbsp Gosto de explorar novas tecnologias.
+🎓 &nbsp Sou formado em Sistemas de Informação pela Universidade do Oeste Paulista.
+👨‍💻 &nbsp Atualmente, sou analista desenvolvedor de sistemas há mais de 3 anos.
+✉️ &nbsp Você pode me enviar um email para giovani.vait@gmail.com! Tentarei responder o mais rápido possível.
+📄 &nbsp Dê uma olhada no meu LinkedIn (https://www.linkedin.com/in/giovani-vaitkevicius) para mais detalhes sobre mim. Estou aberto a feedbacks e sugestões!s!
 
 <br/><br/>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/gvaitkevicius/gvaitkevicius/master/assets/Night-Coding.gif" align="center"/>
